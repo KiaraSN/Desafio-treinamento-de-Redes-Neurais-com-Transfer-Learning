@@ -68,10 +68,9 @@ Você precisa apenas de um ambiente com **Google Colab** e internet:
 
 1. Acesse o [Google Colab](https://colab.research.google.com/)
 2. Crie um novo notebook.
-3. Copie e cole os **22 blocos de código** na ordem.
+3. Copie e cole os **22 blocos de código** na ordem ou utilize a documentação fornecida como esta e apenas altere os cat and dogs.
 4. Execute bloco por bloco para ver os resultados.
 
-> 💡 Dica: Você pode dividir os blocos manualmente com `# %%` se estiver usando Colab com modo de células separadas.
 
 ---
 
@@ -127,11 +126,7 @@ Sinta-se livre para abrir **issues**, sugerir melhorias ou enviar **pull request
 
 ## ✉️ Contato
 
-Para dúvidas ou sugestões:
-
-- **Autor**: [Seu Nome Aqui]
-- **Email**: seu.email@exemplo.com
-- **GitHub**: [github.com/seuusuario](https://github.com/seuusuario)
+Para dúvidas ou sugestões, serão aceitas e gratas.
 
 ---
 
